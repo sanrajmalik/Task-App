@@ -1,2 +1,4 @@
 ## Task Application
-Frontend contains the frontend angular application and Backend contains nodejs and expressjs api.
+Link to frontend & backend code:
+- [Node.js Backend](https://nodejs.org/)
+- [Angular Frontend](https://github.com/sanrajmalik/Todo_angular)
